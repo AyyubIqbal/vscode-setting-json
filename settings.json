@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.linkedEditing": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotShowInfoMsg": true
+}
