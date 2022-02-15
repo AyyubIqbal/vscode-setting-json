@@ -10,7 +10,7 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "liveServer.settings.donotShowInfoMsg": true
 }
-//----------------------------
+
 {
     "git.enableSmartCommit": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
