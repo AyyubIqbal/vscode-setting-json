@@ -10,3 +10,31 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "liveServer.settings.donotShowInfoMsg": true
 }
+//----------------------------
+{
+    "git.enableSmartCommit": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.linkedEditing": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 1,
+    "gitlens.hovers.currentLine.over": "line",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "cSpell.userWords": [
+        "Ayub",
+        "Ayyub",
+        "Aziz",
+        "Mahfuz",
+        "Swaron",
+        "Tusar"
+    ],
+    "workbench.colorTheme": "Dracula Soft",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+}
